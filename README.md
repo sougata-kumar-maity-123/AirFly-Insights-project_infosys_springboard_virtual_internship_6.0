@@ -91,3 +91,8 @@ After dropping missing rows: (327346, 26)
 ###Save processed data 
 <br>
  -Save the processed dataset
+
+ 
+# Milestone-2
+ Univariate and Bivariate Visual Analysis
+  Delay Analysis
