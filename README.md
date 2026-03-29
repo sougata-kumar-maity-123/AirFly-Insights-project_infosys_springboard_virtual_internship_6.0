@@ -97,3 +97,11 @@ After dropping missing rows: (327346, 26)
  Univariate and Bivariate Visual Analysis
  <br>
   Delay Analysis
+
+
+# Milestone-3
+Visualized flight delays by route and season to identify high-delay routes and winter vs non-winter patterns.
+
+
+# Milestone-4
+Developed a Streamlit app where users can input data and instantly see the output.
